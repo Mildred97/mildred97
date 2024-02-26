@@ -1,7 +1,7 @@
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
-description:         'Welcome to my personal webpage! Here you will find insights into my journey, hobbies, and upcoming research project for my Data Networks and Security class.'
+description:         'Welcome to my personal webpage! Here you will find insights into my journey, hobbies, and research homework for my Data Networks and Security class.'
 url:                 https://mildred97.github.io/
 baseurl:             ''
 paginate:            5
