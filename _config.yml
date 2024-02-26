@@ -2,7 +2,7 @@
 title:               Redes de datos seguras 
 tagline:             'A Jekyll theme'
 description:         'Welcome to my personal webpage! Here you'll find insights into my journey, hobbies, and a research project for my Data Networks and Security class.'
-url:                 https://mildred97.github.io/
+url:                 https://mildred97.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
