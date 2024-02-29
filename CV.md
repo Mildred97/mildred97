@@ -38,22 +38,24 @@ Computer engineering student in the eighth semester, interested in software deve
 
 ## Experience
 
-### Technolochicas Ambassador
+### Becálas Fundación Televisa, 2022
+#### Technolochicas Ambassador
 - Conducted courses on various computing topics aimed at inspiring and promoting STEM careers for secondary school girls.
 - Prepared attendance reports and session summaries in Google Sheets.
 
-### Becálas Fundación Televisa, 2022
+### Orchestra Global, 2022
 #### Summer Internship
 - Conducted data analysis in R on Mexico's situation for informed decision-making based on public databases.
 
-### Orchestra Global, 2022
-#### PAPIME Project "Development of a digital learning environment on gender"
+### DGTIC, 2023
+#### PAPIME Project "Development of a DLE (digital learning environment) about gender for "Facultad de Ingeniería, UNAM"
 - Assisted in the development of course activities.
 - Transferred activities to digital format on the Moodle platform.
 
-### DGTIC, 2023
-#### Huawei-UNAM Alliance Project 15 "Artificial intelligence for detecting common errors in the writing of university initiation students."
-- Labeling part of the corpus, testing with the GPT-4 model, creation of graphs in Python from the generated labeling.
+
+### Huawei-UNAM Alliance, 2023-2024
+#### Project 15 "Artificial intelligence for detecting common errors in the writing of university initiation students.
+- Labeling part of the corpus, testing with the GPT-4 model, testing the extraction al cleaning of data, creation of graphs in Python from the generated labeling.
 
 ---
 
