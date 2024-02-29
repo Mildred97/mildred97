@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Personal page
+title: Personal Page
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -15,8 +16,10 @@ title: Personal page
     max-width: 800px;
     padding: 20px;
   }
-  h1, h2 {
+  h1, h2, h3 {
     color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
   }
   img {
     display: block;
@@ -36,45 +39,49 @@ title: Personal page
 </head>
 <body>
 
+<div class="section">
+  <img src="photo.jpg" alt="My Photo">
+</div>
 
-<img src="photo.jpg" alt="My Photo">
+<div class="section">
+  <h2>About Me</h2>
+  <p>I am a computer engineering student with a keen interest in database programming. I consider myself an open-minded and empathetic individual, always eager to learn and explore new opportunities.</p>
+</div>
 
-<h2>About Me</h2>
+<div class="section">
+  <h3>Hobbies</h3>
+  <ul>
+    <li>Embroidery</li>
+    <li>Reading: I particularly enjoy novels of various genres, but I have a soft spot for detective fiction and magical realism.</li>
+    <li>Playing a TCG game: Magic The Gathering</li>
+    <li>Video gaming: I love diving into immersive worlds and exploring captivating stories.</li>
+    <li>Exploring new places: Whether it's museums, restaurants, or skating rinks, I enjoy discovering new experiences.</li>
+  </ul>
+</div>
 
-<p>I am a computer engineering student with a keen interest in database programming. I consider myself an open-minded and empathetic individual, always eager to learn and explore new opportunities.</p>
+<div class="section">
+  <h2>Recommended Reads</h2>
+  <p>As I said, I'm a big fan of reading. Here are some books I highly recommend:</p>
+  <ul>
+    <li><strong>Agatha Christie Classics:</strong> A timeless collection of detective novels, perfect for mystery enthusiasts.</li>
+    <li><strong>The House of the Spirits by Isabel Allende:</strong> A mesmerizing journey through magical realism and a family saga.</li>
+    <li><strong>Nothing, and So Be It by Oriana Fallaci:</strong> A gripping account of war experiences by the Italian journalist in Vietnam and historical events such as the massacre of 1968.</li>
+  </ul>
+</div>
 
-<h3>Hobbies</h3>
+<div class="section">
+  <h2>Movie Recommendations</h2>
+  <p>When it comes to movies, I enjoy a diverse range of genres. Here are a couple of recommendations:</p>
+  <ul>
+    <li><strong>Dune:</strong> An epic sci-fi adventure that transports you to intergalactic realms.</li>
+    <li><strong>Little Women by Greta Gerwig:</strong> A heartwarming adaptation of the beloved classic novel.</li>
+  </ul>
+</div>
 
-<ul>
-  <li>Embroidery</li>
-  <li>Reading: I particularly enjoy novels of various genres, but I have a soft spot for detective fiction and magical realism.</li>
-  <li>Playing Magic: The Gathering</li>
-  <li>Video gaming: I love diving into immersive worlds and exploring captivating stories.</li>
-  <li>Exploring new places: Whether it's museums, restaurants, or skating rinks, I enjoy discovering new experiences.</li>
-</ul>
-
-<h2>Recommended Reads</h2>
-
-<p>Here are some books I highly recommend:</p>
-
-<ul>
-  <li><strong>Agatha Christie Classics:</strong> A timeless collection of detective novels, perfect for mystery enthusiasts.</li>
-  <li><strong>The House of the Spirits by Isabel Allende:</strong> A mesmerizing journey through magical realism and family saga.</li>
-  <li><strong>Vietnam War by Oriana Fallaci:</strong> A gripping account of war experiences and historical events.</li>
-</ul>
-
-<h2>Movie Recommendations</h2>
-
-<p>When it comes to movies, I enjoy a diverse range of genres. Here are a couple of recommendations:</p>
-
-<ul>
-  <li><strong>Dune:</strong> An epic sci-fi adventure that transports you to intergalactic realms.</li>
-  <li><strong>Little Women by Greta Gerwig:</strong> A heartwarming adaptation of the beloved classic novel.</li>
-</ul>
-
-<h2>Music</h2>
-
-<p>I have eclectic taste in music, ranging from 80s classics to contemporary hits. One of my favorite artists is Natalia Lafourcade.</p>
+<div class="section">
+  <h2>Music</h2>
+  <p>I have eclectic taste in music, ranging from 80s classics to contemporary hits. One of my favorite artists is Natalia Lafourcade.</p>
+</div>
 
 </body>
 </html>
