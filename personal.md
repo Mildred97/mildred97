@@ -39,7 +39,7 @@ title: Personal Page
 <body>
 
 <div class="section">
-  <img src="/public/me.jpg" alt="My Photo" style="max-width: 400px;">
+  <img src="/public/me.jpg" alt="My Photo" style="max-width: 250px;">
 </div>
 
 <div class="section">
