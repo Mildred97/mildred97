@@ -3,7 +3,6 @@ layout: page
 title: Personal Page
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -40,12 +39,12 @@ title: Personal Page
 <body>
 
 <div class="section">
-  <img src="photo.jpg" alt="My Photo">
+  <img src="/public/me.jpg" alt="My Photo" style="max-width: 200px;">
 </div>
 
 <div class="section">
   <h2>About Me</h2>
-  <p>I am a computer engineering student with a keen interest in database programming. I consider myself an open-minded and empathetic individual, always eager to learn and explore new opportunities.</p>
+  <p>I am a computer engineering student with a keen interest in database programming. I consider myself an open-minded and empathetic individual, always eager to learn and explore new opportunities.</p>  <br>
 </div>
 
 <div class="section">
@@ -57,6 +56,7 @@ title: Personal Page
     <li>Video gaming: I love diving into immersive worlds and exploring captivating stories.</li>
     <li>Exploring new places: Whether it's museums, restaurants, or skating rinks, I enjoy discovering new experiences.</li>
   </ul>
+  <br>
 </div>
 
 <div class="section">
@@ -66,7 +66,7 @@ title: Personal Page
     <li><strong>Agatha Christie Classics:</strong> A timeless collection of detective novels, perfect for mystery enthusiasts.</li>
     <li><strong>The House of the Spirits by Isabel Allende:</strong> A mesmerizing journey through magical realism and a family saga.</li>
     <li><strong>Nothing, and So Be It by Oriana Fallaci:</strong> A gripping account of war experiences by the Italian journalist in Vietnam and historical events such as the massacre of 1968.</li>
-  </ul>
+  </ul>  <br>
 </div>
 
 <div class="section">
@@ -75,7 +75,7 @@ title: Personal Page
   <ul>
     <li><strong>Dune:</strong> An epic sci-fi adventure that transports you to intergalactic realms.</li>
     <li><strong>Little Women by Greta Gerwig:</strong> A heartwarming adaptation of the beloved classic novel.</li>
-  </ul>
+  </ul>  <br>
 </div>
 
 <div class="section">
