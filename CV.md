@@ -3,9 +3,12 @@ layout: page
 title: Curriculum Vitae
 ---
 
-# LAURA MILDRED MORENO RAZO
-## COMPUTER ENGINEERING STUDENT
+<center>
+  <h1>LAURA MILDRED MORENO RAZO</h1>
+  <h2>COMPUTER ENGINEERING STUDENT</h2>
+</center>
 
+<br>
 Computer engineering student in the eighth semester, interested in software development and machine learning. I consider myself an extremely organized, committed individual with a great ability to adapt to various contexts and situations. Currently seeking opportunities to acquire and develop new knowledge to promote social change through the use of technology.
 
 ---
@@ -55,7 +58,7 @@ Computer engineering student in the eighth semester, interested in software deve
 
 ### Huawei-UNAM Alliance, 2023-2024
 #### Project 15 "Artificial intelligence for detecting common errors in the writing of university initiation students.
-- Labeling part of the corpus, testing with the GPT-4 model, testing the extraction al cleaning of data, creation of graphs in Python from the generated labeling.
+- Labeling part of the corpus, testing with the GPT-4 model, testing the extraction and cleaning of data, creation of graphs in Python from the generated labeling.
 
 ---
 
