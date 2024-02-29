@@ -36,7 +36,6 @@ title: Personal page
 </head>
 <body>
 
-<h1>Personal Page</h1>
 
 <img src="photo.jpg" alt="My Photo">
 
